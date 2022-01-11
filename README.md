@@ -5,3 +5,6 @@ This programme covers all of the key skills of a data analytics consultant:
 -Data Quality Assessment 
 -Data Insights 
 -Data Insights and Presentation
+
+Credits
+KPMG data analytics team
